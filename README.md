@@ -39,7 +39,8 @@ This Python script extracts inline CSS and JavaScript from an HTML file and save
 
 Click below to join the Discord server:
 
-[![Join Our Discord Server](https://img.shields.io/badge/Join_Discord_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.com/invite/YOUR_SERVER_INVITE)
+[![Join Our Discord Server](https://img.shields.io/badge/Join_Discord_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.com/invite/zsGTqgnsmK)
+
 
 Replace `YOUR_SERVER_INVITE` with your actual Discord server invite link.
 
@@ -51,17 +52,5 @@ Replace `YOUR_SERVER_INVITE` with your actual Discord server invite link.
 
 ---
 
-### How to Replace the Discord Invite:
-To add your own Discord invite link, replace `YOUR_SERVER_INVITE` in the following URL:
 
-```
-https://discord.com/invite/YOUR_SERVER_INVITE
-```
-
-For example, if your Discord invite link is `https://discord.gg/example`, then the button will look like this:
-
-```markdown
-[Join my Discord Server](https://discord.gg/zsGTqgnsmK)
-
-```
 
